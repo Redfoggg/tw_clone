@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 	
 	session_start();
 
@@ -33,3 +33,4 @@
 	
 
 ?>
+// comentario
